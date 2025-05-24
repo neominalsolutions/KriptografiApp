@@ -10,6 +10,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<RSAService>();
+builder.Services.AddScoped<HMACService>();
+builder.Services.AddScoped<PasswordHasherService>();
+builder.Services.AddScoped<AESService>();
 
 var app = builder.Build();
 
