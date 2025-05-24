@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KriptografiApp", "KriptografiApp\KriptografiApp.csproj", "{79F6880D-6291-438E-A0AB-846D8682A821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F6880D-6291-438E-A0AB-846D8682A821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F6880D-6291-438E-A0AB-846D8682A821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F6880D-6291-438E-A0AB-846D8682A821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F6880D-6291-438E-A0AB-846D8682A821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A64BDF0C-7FCA-47DC-8564-559139EE6FDD}
+	EndGlobalSection
+EndGlobal
